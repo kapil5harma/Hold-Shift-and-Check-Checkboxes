@@ -1,3 +1,5 @@
+// This is main.js for the mini project.
+
 const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');
 console.log(checkboxes);
 
